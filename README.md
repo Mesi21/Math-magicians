@@ -15,8 +15,8 @@ For the live version of this project visit the following [link](https://)
 ## Get started
 
 ```bash
-   git clone git@github.com:Mesi21/React-Calculator.git
-   cd into the folder by typing: cd React-calculator
+   git clone git@github.com:Mesi21/Math-magicians.git
+   cd into the folder by typing: cd Math-magicians
 ```
 
  :heavy_plus_sign: add your contribution if you'd like
