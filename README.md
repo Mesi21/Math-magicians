@@ -55,5 +55,5 @@ All contributions, issues and feature requests are welcome!
 
 Give a :star: if you liked the app
 
-# Licence
+# License
 This project is [MIT](license.txt) licensed.
