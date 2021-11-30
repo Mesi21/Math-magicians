@@ -1,10 +1,10 @@
 #btnPanel {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
-.rows{
-    min-height: 100px;
-    display: flex;
-    flex-direction: row;
+.rows {
+  min-height: 100px;
+  display: flex;
+  flex-direction: row;
 }
