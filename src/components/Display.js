@@ -2,16 +2,20 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import '../styles/Display.css';
 
-function Display({ result }) {
+function Display({ total, next, operation }) {
   return (
-    <div id="Display"><h3>{result}</h3></div>
+    <div id="Display">
+      <span>{total}</span>
+      <span>{operation}</span>
+      <span>{next}</span>
+    </div>
   );
 }
 
 Display.propTypes = {
-  result: PropTypes.string,
+  total: PropTypes.string.isRequired,
+  next: PropTypes.string.isRequired,
+  operation: PropTypes.string.isRequired,
 };
-
-Display.defaultProps = { result: '0' };
 
 export default Display;

@@ -20,11 +20,11 @@ class Calculator extends Component {
   }
 
   render() {
-    const { total } = this.state;
-    const result = total;
+    const { total, next, operation } = this.state;
+
     return (
       <div id="app">
-        <Display result={result} />
+        <Display total={total} next={next} operation={operation} />
         <ButtonPanel clickHandler={this.handleClick} />
       </div>
     );
