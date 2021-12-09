@@ -1,4 +1,35 @@
 body {
-  width: 60%;
+  width: 100%;
   margin: auto;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  background-color: blanchedalmond;
+  height: 90vh;
+}
+
+#left {
+  width: 20%;
+  padding: 30px;
+  margin: 0;
+}
+
+#right {
+  padding: 0;
+  margin: 0;
+  width: 50%;
 }
