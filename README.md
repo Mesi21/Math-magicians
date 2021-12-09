@@ -8,6 +8,10 @@ It was created with [Create-React-App](https://github.com/facebook/create-react-
 
 ---
 
+## Screenshot
+
+![screenshot](./src/styles/screenshot.jpg)
+
 ## Live version
 
 For the live version of this project visit the following [link](https://) 
