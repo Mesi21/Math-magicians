@@ -1,12 +1,12 @@
 #home {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 80vh;
-    padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 80vh;
+  padding: 50px;
 }
 
 #home h1 {
-    font-size: 4rem;
-    margin-bottom: 50px;
+  font-size: 4rem;
+  margin-bottom: 50px;
 }
