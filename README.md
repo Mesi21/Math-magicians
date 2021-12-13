@@ -14,7 +14,7 @@ It was created with [Create-React-App](https://github.com/facebook/create-react-
 
 ## Live version
 
-For the live version of this project visit the following [link](https://) 
+For the live version of this project visit the following [Netlify](https://math-magicians-calculator-v2.netlify.app/) and [Heroku](https://math-magicians-calculator-v2.herokuapp.com/) links.
 
 ## Get started
 
